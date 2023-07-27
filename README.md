@@ -18,7 +18,7 @@ Expense Tracker is a web app that will keep track of your income and expense.
 
 ## Demo
 
-[Click Here](https://expense-tracker-16d78.web.app/) to play around.
+[Click Here](https://expense-tracker-b8a5f.web.app/) to play around.
 
 ## Guest Credentials
 
